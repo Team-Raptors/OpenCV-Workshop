@@ -16,6 +16,9 @@ After downloading the file or exe run it and make you have proper configuration 
 Open cmd and type the below command to check if the python is properly installed
 ````shell
 $ python -V
-```` <br>
+````
+<br>
 or
-'''python --version'''
+````shell
+$ python --version
+````
