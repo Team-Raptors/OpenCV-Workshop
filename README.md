@@ -17,7 +17,7 @@ Press windows key and type in cmd and then type the below command to check if th
 ````shell
 python -V
 ````
-<br>or
+OR
 ````shell
 python --version
 ````
