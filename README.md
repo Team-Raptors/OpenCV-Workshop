@@ -23,6 +23,6 @@ $ python --version
 ````
 or you can type _python_ in the command in the cmd
 ![Screenshot 2023-10-27 001939](https://github.com/Team-Raptors/OpenCV-Workshop/assets/68473120/49ce88ed-cb11-49e4-857d-f4055ff237fc)
-
-**Step 4: Downloading and installing vscode or any other source code editor**
+<br>
+**Step 4: Downloading and installing vscode or any other source code editor** <br>
 you can find this software for particular operating System on the [Vscode website](https://code.visualstudio.com/Download)
