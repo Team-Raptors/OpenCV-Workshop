@@ -13,4 +13,7 @@ After downloading the file or exe run it and make you have proper configuration 
 ![about_contribute_install_windows_installer](https://github.com/Team-Raptors/OpenCV-Workshop/assets/68473120/c2a5ca2a-8a1f-44a6-9651-4dacc456c505)
 
 **Step 3: Checking if python is installed or not** <br>
-Open cmd and type echo python -V
+Open cmd and type the below command to check if the python is properly installed
+$ python -V
+or
+$ python --version
