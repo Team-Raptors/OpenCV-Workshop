@@ -1,5 +1,8 @@
 # OpenCV-Workshop
 So this is the repository regarding the workshop conducted on OpenCV
 
-#Installation
+## Installation
 (Most import part regarding the installation)
+
+**Step 1:**
+Install python go on the website of [python](https://www.python.org/downloads/)
