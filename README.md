@@ -17,8 +17,7 @@ Open cmd and type the below command to check if the python is properly installed
 ````shell
 $ python -V
 ````
-<br>
-or
+<br>or
 ````shell
 $ python --version
 ````
