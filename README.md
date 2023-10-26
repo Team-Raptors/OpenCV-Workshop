@@ -35,7 +35,7 @@ pip install opencv-contrib-python
 ````
 ![Screenshot 2023-10-27 003440](https://github.com/Team-Raptors/OpenCV-Workshop/assets/68473120/e9a243a4-da1b-43b2-95c7-5e433c952cd0) <br><br>
 
-**Step 6: Checking if OpenCV is installed or not**
+**Step 6: Checking if OpenCV is installed or not** <br>
 Enter below command to check if OpenCV is installed or not
 ````shell
 pip list
