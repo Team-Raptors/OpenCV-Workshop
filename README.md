@@ -1,6 +1,6 @@
 # OpenCV-Workshop
 So this is the repository regarding the workshop conducted on OpenCV. <br>
-If you follow the steps properly then only installation will happen properly
+If you follow the steps properly then only installation will happen.
 
 ## Installation
 (Most import part regarding the installation)
@@ -26,3 +26,11 @@ or you can type _python_ in the command in the cmd
 
 **Step 4: Downloading and installing vscode or any other source code editor** <br>
 you can find this software for particular operating System on the [Vscode website](https://code.visualstudio.com/Download)
+After downloading the VScode install it. <br><br>
+
+**Step 5: Install OpenCV**
+Open command prompt and then type enter the below command
+````shell
+$ pip install opencv-contrib-python
+````
+
