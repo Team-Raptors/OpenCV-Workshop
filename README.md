@@ -14,6 +14,6 @@ After downloading the file or exe run it and make you have proper configuration 
 
 **Step 3: Checking if python is installed or not** <br>
 Open cmd and type the below command to check if the python is properly installed
-'''python -V''' <br>
+'''$python -V''' <br>
 or
 '''python --version'''
