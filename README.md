@@ -33,4 +33,17 @@ Open command prompt and then type enter the below command
 ````shell
 $ pip install opencv-contrib-python
 ````
+![Screenshot 2023-10-27 003440](https://github.com/Team-Raptors/OpenCV-Workshop/assets/68473120/e9a243a4-da1b-43b2-95c7-5e433c952cd0) <br><br>
 
+**Step 6: Checking if OpenCV is installed or not**
+Enter below command to check if OpenCV is installed or not
+````shell
+$ pip list
+````
+OR
+````shell
+$ python
+$ import cv2
+$ print(cv2.__version__)
+````
+![Screenshot 2023-10-27 003934](https://github.com/Team-Raptors/OpenCV-Workshop/assets/68473120/253a36ba-b040-41eb-9655-a9376a4409f9)
