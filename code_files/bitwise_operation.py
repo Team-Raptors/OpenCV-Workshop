@@ -1,13 +1,22 @@
-import cv2 
-import numpy as np 
-	
-img1 = cv2.imread('input1.png') 
-img2 = cv2.imread('input2.png') 
+import cv2 as cv
+import numpy as np
 
-bit_and = cv2.bitwise_and(img2, img1, mask = None) 
-bit_or = cv2.bitwise_or(img1, img2, mask = None) 
+# Load the two input images
+img1 = cv.imread('input1.png')
+img2 = cv.imread('input2.png')
 
-cv2.imshow('Bitwise And', dest_and) 
-cv2.imshow('Bitwise Or', bit_or)
+# Perform bitwise AND operation on the two images
+bit_and = cv.bitwise_and(img2, img1, mask=None)
 
-cv2.waitKey(0)
+# Perform bitwise OR operation on the two images
+bit_or = cv.bitwise_or(img1, img2, mask=None)
+
+# Display the result of bitwise AND operation
+cv.imshow('Bitwise And', bit_and)
+
+# Display the result of bitwise OR operation
+cv.imshow('Bitwise Or', bit_or)
+
+# Wait for a key press and then close the windows
+cv.waitKey(0)
+cv.destroyAllWindows()
