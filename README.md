@@ -2,7 +2,7 @@
 So this is the repository regarding the workshop conducted on OpenCV. <br>
 If you follow the steps properly then only installation will happen.
 
-## Installation
+# Installation
 (Most import part regarding the installation)
 
 **Step 1: Download Python** <br>
